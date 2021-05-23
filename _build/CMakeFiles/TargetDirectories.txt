@@ -1,0 +1,9 @@
+/home/phil/A7las96/workspace/projects/lab06.tutor/lab05_1/_build/CMakeFiles/edit_cache.dir
+/home/phil/A7las96/workspace/projects/lab06.tutor/lab05_1/_build/CMakeFiles/package_source.dir
+/home/phil/A7las96/workspace/projects/lab06.tutor/lab05_1/_build/CMakeFiles/rebuild_cache.dir
+/home/phil/A7las96/workspace/projects/lab06.tutor/lab05_1/_build/CMakeFiles/package.dir
+/home/phil/A7las96/workspace/projects/lab06.tutor/lab05_1/_build/banking/CMakeFiles/edit_cache.dir
+/home/phil/A7las96/workspace/projects/lab06.tutor/lab05_1/_build/banking/CMakeFiles/rebuild_cache.dir
+/home/phil/A7las96/workspace/projects/lab06.tutor/lab05_1/_build/banking/CMakeFiles/package.dir
+/home/phil/A7las96/workspace/projects/lab06.tutor/lab05_1/_build/banking/CMakeFiles/package_source.dir
+/home/phil/A7las96/workspace/projects/lab06.tutor/lab05_1/_build/banking/CMakeFiles/banking.dir
